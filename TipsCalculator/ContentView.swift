@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ExampleProject
+//  TipsCalculator
 //
 //  Created by adilmaks on 02.07.2025.
 //
