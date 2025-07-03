@@ -25,26 +25,19 @@ git clone https://github.com/adlmks/SimpleTipCalculator.git
 
 2. Open the project in Xcode
 
-cd TipsCalculator
-
-open .xcodeproj
+- cd TipsCalculator
+- open .xcodeproj
 
 3. Build and run
 
-Select your desired simulator (e.g., iPhone 16 Pro)
+- Select your desired simulator (e.g., iPhone 16 Pro)
+- Press Cmd + R to build and run the app
 
-Press Cmd + R to build and run the app
+## 🛠 Tech Stack
+- Language: Swift
+- Framework: SwiftUI
+- IDE: Xcode 15 or higher
+- Deployment Target: iOS 16+
 
-🛠 Tech Stack
-
-Language: Swift
-
-Framework: SwiftUI
-
-IDE: Xcode 15 or higher
-
-Deployment Target: iOS 16+
-
-👨‍💻 Author
-
-Made with ❤️ by adilmaks
+## 👨‍💻 Author
+- Made with ❤️ by adilmaks
