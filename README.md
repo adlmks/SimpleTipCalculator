@@ -2,7 +2,7 @@
 
 A simple iOS app built with SwiftUI that helps you calculate tips and split the bill between multiple people.
 
-![Tips Calculator Screenshot](screenshots/tips-calculator.png)
+![Tips Calculator Screenshot](screenshots/TipsCalculator_Screenshot.png)
 
 ---
 
